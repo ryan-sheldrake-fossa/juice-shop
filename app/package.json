@@ -3,7 +3,7 @@
   "version": "7.5.1",
   "private": true,
   "dependencies": {
-    "angular": "~1.6.9",
+    "angular": "~1.8.1",
     "angular-animate": "~1.6.9",
     "angular-base64": "~2.0",
     "angular-cookies": "~1.6.9",
